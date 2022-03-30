@@ -1,9 +1,10 @@
 # bikesharing
 
 ### Overview
-
+We set out out to determine if a bike sharing business in Des Moines similar to one we saw in New York would be a good business idea. These specific visualizations concern bike trips in August 2019, and were created in response to interest from a key potential investor. 
 
 ### Results
+The results of the analysis can be viewed at this link: https://public.tableau.com/app/profile/christopher.j.olwell/viz/NYCCitiBike_16485997840830/BiketownUSA?publish=yes
 
 
 ### Summary
